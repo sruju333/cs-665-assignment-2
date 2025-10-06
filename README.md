@@ -14,7 +14,7 @@ The goal of this project was to apply an appropriate **Software Design Pattern**
 A simple command-line interface (CLI) is provided for demonstration; functionality is also verified using **JUnit tests**.
 
 # GitHub Repository Link:
-https://github.com/{YOUR_USERNAME}/cs-665-assignment-{ASSIGNMENT_NUMBER}
+https://github.com/sruju333/cs-665-assignment-2
 
 # Implementation Description 
 
